@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- grey -->
+    <color name="bgcolor1">#333333</color>
+    <color name="bgcolor2">#4c4c4c</color>
+    <color name="bgcolor3">#191919</color>
+    
+    <!-- orange -->
+    <color name="bgcolor4">#ff8a35</color>
+    <color name="bgcolor5">#ffba87</color>
+    <color name="bgcolor6">#ff6a00</color>
+    
+    <!--blue  -->
+    <color name="bgcolor7">#54adea</color>
+    <color name="bgcolor8">#b5d8f6</color>
+    <color name="bgcolor9">#3b81b2</color>
+    
+    <!-- marron -->
+    <color name="bgcolor10">#330000</color>
+    <color name="bgcolor11">#440000</color>
+    <color name="bgcolor12">#220000</color>
+    
+    <!-- green -->
+    <color name="bgcolor13">#78b54b</color>
+    <color name="bgcolor14">#96c573</color>
+    <color name="bgcolor15">#006600</color>
+    
+    <!-- pink -->
+    <color name="bgcolor16">#ff8da1</color>
+    <color name="bgcolor17">#ffa7b6</color>
+    <color name="bgcolor18">#ff748c</color>
+    
+    <!-- white -->
+    <color name="bgcolor19">#ffffff</color>
+    <color name="bgcolor20">#d6ebf2</color>
+    <color name="bgcolor21">#cde7f0</color>
+    
+    
+</resources>

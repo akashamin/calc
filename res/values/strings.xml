@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calc</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="div">÷</string>
+    <string name="minus">−</string>
+    <string name="plus">+</string>
+    <string name="mul">×</string>
+    
+    
+      <string-array name="nav_drawer_items">
+        <item>Calculator</item>
+        
+        <item>Themes</item>
+        <item>About</item>
+    </string-array>
+    
+    <array name="nav_drawer_icons">
+        <item>@drawable/calculator</item>
+        <item>@drawable/currency</item>
+        <item>@drawable/themes</item>
+        <item>@drawable/ic_action_about</item>
+    </array>
+
+</resources>
